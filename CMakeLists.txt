@@ -3,4 +3,4 @@ project(DesignPatterns)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DesignPatterns main.cpp Sources/Abstract_Factory.cpp Headers/Abstract_Factory.h)
+add_executable(DesignPatterns main.cpp Sources/Abstract_Factory.cpp Headers/Abstract_Factory.h Sources/Singleton.cpp Headers/Singleton.h)
